@@ -13,7 +13,7 @@ If the dataset is not included in the repository, it can be downloaded directly 
 
 1. Open `https://colab.research.google.com/drive/1G2QzkAWxuW-w6OWNyqe1vxUfCnfYXqTI?usp=sharing` using **Google Colab**.
 2. Run the cells step by step to reproduce the analysis and visualizations.
-3. If you want to se all visualizations you just need to copy/paste link for google colab and upload CSV file.
+3. If you want to see all visualizations you just need to copy/paste link for google colab and upload CSV file.
 4. You are able to download csv file on this link: (https://ourworldindata.org/war-and-peace)
 ## Project workflow
 
