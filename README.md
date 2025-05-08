@@ -7,8 +7,6 @@ This project analyzes deaths in armed conflicts in Bosnia and Herzegovina, Croat
 
 Source: [Our World in Data - War and Peace](https://ourworldindata.org/war-and-peace)
 
-If the dataset is not included in the repository, it can be downloaded directly from the source link above.
-
 ## How to run the analysis
 
 1. Open `https://colab.research.google.com/drive/1G2QzkAWxuW-w6OWNyqe1vxUfCnfYXqTI?usp=sharing` using **Google Colab**.
